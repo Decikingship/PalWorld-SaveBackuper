@@ -33,5 +33,4 @@ while True:
         # 如果发生任何错误，打印错误信息
         print(f'备份错误: {e}')
 
-    # 等待30分钟，1800秒
-    time.sleep(1800)
+    time.sleep(900)
